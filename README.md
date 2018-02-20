@@ -9,9 +9,3 @@ third text field is password which security enable ,later on i'll add show and h
 button is rounded using cornor radius 
 just passing the all the data to the text veiw to display
 
-<br />
-**Show case:**
-<br />
-<p align="center">
-  <img src="text.gif">
-</p>
