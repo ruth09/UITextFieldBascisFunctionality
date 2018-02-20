@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Timer
+//  Textfiledbasics
 //
-//  Created by Ruth on 09/02/18.
+//  Created by Ruth on 21/02/18.
 //  Copyright © 2018 Ruth. All rights reserved.
 //
 
